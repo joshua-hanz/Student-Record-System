@@ -1,5 +1,3 @@
-//ANCUNA, HANZ JOSHUA V.
-//BSCS-1C
 #include <iostream>
 #include <iomanip>
 #include <fstream>
